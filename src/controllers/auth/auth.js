@@ -1,4 +1,3 @@
-import {} from "../../models/user.js";
 import jwt from "jsonwebtoken";
 import { Customer, DeliveryPartner } from "../../models/user.js";
 
